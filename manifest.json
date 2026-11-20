@@ -1,0 +1,68 @@
+{
+  "latest": "1.12",
+  "versions": [
+    {
+      "version": "1.12",
+      "date": "2026-11-20",
+      "title": "MsnUpdator arrives",
+      "description": "First version managed by MsnUpdator. From now on, updates arrive automatically while the game launcher is open.\n\n- CnCNet updates are switched off, so nothing outside our group changes the game.\n- LAN screen: shows the installed version and has an MsnUpdator button (update log, update, roll back).\n- Includes everything from v1.11: Muhannad Soldier and all custom rules, Mega Nuke with the 2x mushroom cloud, CnCNet 9.4.1 network files.",
+      "restart": true,
+      "files": [
+        {
+          "path": "MsnUpdator.exe",
+          "sha256": "f7cd1c0cb5204d226fd1b83e8daebad55588985f0ebd667580bbf7dbaf536b73",
+          "size": 29184,
+          "asset": "f7cd1c0cb5204d22_MsnUpdator.exe"
+        },
+        {
+          "path": "updateconfig.ini",
+          "sha256": "c90006eb1869e5a3269a868dcba56f52f8cf45a81b62e9b95d1a675563192f2e",
+          "size": 279,
+          "asset": "c90006eb1869e5a3_updateconfig.ini"
+        },
+        {
+          "path": "cncnet.mix",
+          "sha256": "d670fd4fd6654ea76743871101f41264a1831fb0ba00d1b740897a494b09408b",
+          "size": 40321680,
+          "asset": "d670fd4fd6654ea7_cncnet.mix"
+        },
+        {
+          "path": "CnCNet-Spawner.dll",
+          "sha256": "c8412ea4cd6fcbbeaf84dee89eb687bc99d9f3c7725a5badc51d305713936735",
+          "size": 871424,
+          "asset": "c8412ea4cd6fcbbe_CnCNet-Spawner.dll"
+        },
+        {
+          "path": "INI/Game Options/Mega Nuke.ini",
+          "sha256": "c1ab30952ffb42938eecbba1be646c37dd04174b955748679ef197f5c20a8df4",
+          "size": 5307,
+          "asset": "c1ab30952ffb4293_INI__Game_Options__Mega_Nuke.ini"
+        },
+        {
+          "path": "Resources/GameLobbyBase.ini",
+          "sha256": "00c4ccf88b6db998b68ed930ad62a5b8994aa689712b3fb8ebf6cbcc190c9e35",
+          "size": 19227,
+          "asset": "00c4ccf88b6db998_Resources__GameLobbyBase.ini"
+        },
+        {
+          "path": "Resources/MultiplayerGameLobby.ini",
+          "sha256": "e205d0f33e7c68e258d852a42932e03c6c1adad586eda2fc22c17a69b3e95d95",
+          "size": 2434,
+          "asset": "e205d0f33e7c68e2_Resources__MultiplayerGameLobby.ini"
+        },
+        {
+          "path": "Resources/SkirmishLobby.ini",
+          "sha256": "7a8cbdab5d98f0166b4ba332e191d3bfc8457eba800e8381587d3022ea1ca4ad",
+          "size": 275,
+          "asset": "7a8cbdab5d98f016_Resources__SkirmishLobby.ini"
+        },
+        {
+          "path": "Resources/LANLobby.ini",
+          "sha256": "c35aac9197830165ad3c4d97b697fe4061a3b91276ce538119f9e24be406d2fc",
+          "size": 461,
+          "asset": "c35aac9197830165_Resources__LANLobby.ini"
+        }
+      ]
+    }
+  ]
+}
