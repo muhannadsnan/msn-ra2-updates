@@ -5,14 +5,14 @@
       "version": "1.12",
       "date": "2026-11-20",
       "title": "MsnUpdator arrives",
-      "description": "First version managed by MsnUpdator. From now on, updates arrive automatically while the game launcher is open.\n\n- CnCNet updates are switched off, so nothing outside our group changes the game.\n- LAN screen: MsnUpdator button on the left, with the installed version shown big next to it. The button opens the update log, with Update and Roll back.\n- Main menu: the bottom bar now says 'No updates from MSN.'\n- While an update installs, a small note appears in the bottom-right corner, then a Restart button if the launcher must restart.\n- Includes everything from v1.11: Muhannad Soldier and all custom rules, Mega Nuke with the 2x mushroom cloud, CnCNet 9.4.1 network files.",
+      "description": "First version managed by MsnUpdator. From now on, updates arrive automatically while the game launcher is open.\n\n- CnCNet updates are switched off, so nothing outside our group changes the game.\n- LAN screen: MsnUpdator button on the left, with the installed version shown big next to it. The button opens the update log, with Update and Roll back.\n- Main menu: the bottom bar now says 'No updates from MSN.'\n- While an update installs, a small note appears in the bottom-right corner, then a Restart button if the launcher must restart.\n- If an update ever fails, a short message explains why (except for internet problems, which are retried quietly).\n- Includes everything from v1.11: Muhannad Soldier and all custom rules, Mega Nuke with the 2x mushroom cloud, CnCNet 9.4.1 network files.",
       "restart": true,
       "files": [
         {
           "path": "MsnUpdator.exe",
-          "sha256": "214cbd5d8749fc2e3380031c73f6669ee28b5fbfaeda3c1bb3d96f13d4089220",
-          "size": 29184,
-          "asset": "214cbd5d8749fc2e_MsnUpdator.exe"
+          "sha256": "e763ff6676f730d6b9d30be468505024db23c2e79c60288098b2bf34556855f2",
+          "size": 34816,
+          "asset": "e763ff6676f730d6_MsnUpdator.exe"
         },
         {
           "path": "updateconfig.ini",
