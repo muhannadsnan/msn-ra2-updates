@@ -5,14 +5,14 @@
       "version": "1.12",
       "date": "2026-11-20",
       "title": "MsnUpdator arrives",
-      "description": "First version managed by MsnUpdator. From now on, updates arrive automatically while the game launcher is open.\n\n- CnCNet updates are switched off, so nothing outside our group changes the game.\n- LAN screen: shows the installed version and has an MsnUpdator button (update log, update, roll back).\n- Includes everything from v1.11: Muhannad Soldier and all custom rules, Mega Nuke with the 2x mushroom cloud, CnCNet 9.4.1 network files.",
+      "description": "First version managed by MsnUpdator. From now on, updates arrive automatically while the game launcher is open.\n\n- CnCNet updates are switched off, so nothing outside our group changes the game.\n- LAN screen: MsnUpdator button on the left, with the installed version shown big next to it. The button opens the update log, with Update and Roll back.\n- Main menu: the bottom bar now says 'No updates from MSN.'\n- While an update installs, a small note appears in the bottom-right corner, then a Restart button if the launcher must restart.\n- Includes everything from v1.11: Muhannad Soldier and all custom rules, Mega Nuke with the 2x mushroom cloud, CnCNet 9.4.1 network files.",
       "restart": true,
       "files": [
         {
           "path": "MsnUpdator.exe",
-          "sha256": "f7cd1c0cb5204d226fd1b83e8daebad55588985f0ebd667580bbf7dbaf536b73",
+          "sha256": "214cbd5d8749fc2e3380031c73f6669ee28b5fbfaeda3c1bb3d96f13d4089220",
           "size": 29184,
-          "asset": "f7cd1c0cb5204d22_MsnUpdator.exe"
+          "asset": "214cbd5d8749fc2e_MsnUpdator.exe"
         },
         {
           "path": "updateconfig.ini",
@@ -58,9 +58,21 @@
         },
         {
           "path": "Resources/LANLobby.ini",
-          "sha256": "c35aac9197830165ad3c4d97b697fe4061a3b91276ce538119f9e24be406d2fc",
-          "size": 461,
-          "asset": "c35aac9197830165_Resources__LANLobby.ini"
+          "sha256": "1a640bbd0b473ead9a1e40158a5f1669046e328e55a80ea692e68def46d98b06",
+          "size": 449,
+          "asset": "1a640bbd0b473ead_Resources__LANLobby.ini"
+        },
+        {
+          "path": "Resources/Fonts.ini",
+          "sha256": "e5e59b3233eec7c9e06880aab65ae1389435712f9c57a7970ad46bfa0b2c83ee",
+          "size": 773,
+          "asset": "e5e59b3233eec7c9_Resources__Fonts.ini"
+        },
+        {
+          "path": "Resources/Translations/en/Translation.ini",
+          "sha256": "7dd0d530c3cc51680d5912fdd81b9185818187cb69e6c28b133b81db6d795325",
+          "size": 362,
+          "asset": "7dd0d530c3cc5168_Resources__Translations__en__Translation.ini"
         }
       ]
     }
