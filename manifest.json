@@ -16,9 +16,9 @@
         },
         {
           "path": "updateconfig.ini",
-          "sha256": "2a14a25c345298040519a8a9e88e147c65aef7048c3db8cce838170baaf0873b",
-          "size": 133,
-          "asset": "2a14a25c34529804_updateconfig.ini"
+          "sha256": "c90006eb1869e5a3269a868dcba56f52f8cf45a81b62e9b95d1a675563192f2e",
+          "size": 279,
+          "asset": "c90006eb1869e5a3_updateconfig.ini"
         },
         {
           "path": "cncnet.mix",
