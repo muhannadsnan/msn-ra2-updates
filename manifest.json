@@ -1,6 +1,111 @@
 {
-  "latest": "1.17",
+  "latest": "1.18",
   "versions": [
+    {
+      "version": "1.18",
+      "date": "2026-11-22",
+      "title": "Nightmare AI vs Floating Discs, x4 defences",
+      "description": "Nightmare AI: its defences now work without power and can't be drained by Floating Discs. It builds 4 times as many defences, each with 4 times the health. Once you own a Floating Disc it sends up to 3 anti-air patrols of 30 IFVs, 15 Flak Tracks or 30 Gattling tanks, each unit with 5 times the health (AI-only units; yours are unchanged). Everything from v1.17 stays.",
+      "restart": true,
+      "files": [
+        {
+          "path": "MsnUpdator.exe",
+          "sha256": "a43e00c8bba3d9b65b4203c16b25a3842a85a39a45fdf0bffb162ed28e8fbe51",
+          "size": 35840,
+          "asset": "a43e00c8bba3d9b6_MsnUpdator.exe"
+        },
+        {
+          "path": "updateconfig.ini",
+          "sha256": "c90006eb1869e5a3269a868dcba56f52f8cf45a81b62e9b95d1a675563192f2e",
+          "size": 279,
+          "asset": "c90006eb1869e5a3_updateconfig.ini"
+        },
+        {
+          "path": "Resources/Config/UpdaterConfig_Live.ini",
+          "sha256": "c90006eb1869e5a3269a868dcba56f52f8cf45a81b62e9b95d1a675563192f2e",
+          "size": 279,
+          "asset": "c90006eb1869e5a3_Resources__Config__UpdaterConfig_Live.ini"
+        },
+        {
+          "path": "Resources/Config/UpdaterConfig_PreRelease.ini",
+          "sha256": "c90006eb1869e5a3269a868dcba56f52f8cf45a81b62e9b95d1a675563192f2e",
+          "size": 279,
+          "asset": "c90006eb1869e5a3_Resources__Config__UpdaterConfig_PreRelease.ini"
+        },
+        {
+          "path": "Resources/Config/UpdaterConfig_Dev.ini",
+          "sha256": "c90006eb1869e5a3269a868dcba56f52f8cf45a81b62e9b95d1a675563192f2e",
+          "size": 279,
+          "asset": "c90006eb1869e5a3_Resources__Config__UpdaterConfig_Dev.ini"
+        },
+        {
+          "path": "Resources/Config/UpdaterConfig_Legacy.ini",
+          "sha256": "c90006eb1869e5a3269a868dcba56f52f8cf45a81b62e9b95d1a675563192f2e",
+          "size": 279,
+          "asset": "c90006eb1869e5a3_Resources__Config__UpdaterConfig_Legacy.ini"
+        },
+        {
+          "path": "cncnet.mix",
+          "sha256": "d670fd4fd6654ea76743871101f41264a1831fb0ba00d1b740897a494b09408b",
+          "size": 40321680,
+          "asset": "d670fd4fd6654ea7_cncnet.mix"
+        },
+        {
+          "path": "CnCNet-Spawner.dll",
+          "sha256": "c8412ea4cd6fcbbeaf84dee89eb687bc99d9f3c7725a5badc51d305713936735",
+          "size": 871424,
+          "asset": "c8412ea4cd6fcbbe_CnCNet-Spawner.dll"
+        },
+        {
+          "path": "INI/Game Options/Mega Nuke.ini",
+          "sha256": "c1ab30952ffb42938eecbba1be646c37dd04174b955748679ef197f5c20a8df4",
+          "size": 5307,
+          "asset": "c1ab30952ffb4293_INI__Game_Options__Mega_Nuke.ini"
+        },
+        {
+          "path": "INI/Game Options/AI/Extreme AI Beta.ini",
+          "sha256": "25104883e74c2b8d5fc4f49a76f628a0105bb577131861bb3235bad18595c4d5",
+          "size": 193014,
+          "asset": "25104883e74c2b8d_INI__Game_Options__AI__Extreme_AI_Beta.ini"
+        },
+        {
+          "path": "Resources/GameLobbyBase.ini",
+          "sha256": "c7d31cc7c4e9d58ccfd6d92eed645a4cfb4023cfa843588479d384159fc50c2d",
+          "size": 19220,
+          "asset": "c7d31cc7c4e9d58c_Resources__GameLobbyBase.ini"
+        },
+        {
+          "path": "Resources/MultiplayerGameLobby.ini",
+          "sha256": "e205d0f33e7c68e258d852a42932e03c6c1adad586eda2fc22c17a69b3e95d95",
+          "size": 2434,
+          "asset": "e205d0f33e7c68e2_Resources__MultiplayerGameLobby.ini"
+        },
+        {
+          "path": "Resources/SkirmishLobby.ini",
+          "sha256": "7a8cbdab5d98f0166b4ba332e191d3bfc8457eba800e8381587d3022ea1ca4ad",
+          "size": 275,
+          "asset": "7a8cbdab5d98f016_Resources__SkirmishLobby.ini"
+        },
+        {
+          "path": "Resources/LANLobby.ini",
+          "sha256": "40f45681ac2e051d4a6921bf199e87d7698dc8ce55cbd9c3441a425361fee616",
+          "size": 449,
+          "asset": "40f45681ac2e051d_Resources__LANLobby.ini"
+        },
+        {
+          "path": "Resources/Fonts.ini",
+          "sha256": "e5e59b3233eec7c9e06880aab65ae1389435712f9c57a7970ad46bfa0b2c83ee",
+          "size": 773,
+          "asset": "e5e59b3233eec7c9_Resources__Fonts.ini"
+        },
+        {
+          "path": "Resources/Translations/en/Translation.ini",
+          "sha256": "7dd0d530c3cc51680d5912fdd81b9185818187cb69e6c28b133b81db6d795325",
+          "size": 362,
+          "asset": "7dd0d530c3cc5168_Resources__Translations__en__Translation.ini"
+        }
+      ]
+    },
     {
       "version": "1.17",
       "date": "2026-11-22",
@@ -406,111 +511,6 @@
           "sha256": "51428ea44e9330ff9f0f414d2da4a43223eb92512e4223c8a74c1f69d5116c72",
           "size": 451,
           "asset": "51428ea44e9330ff_Resources__LANLobby.ini"
-        },
-        {
-          "path": "Resources/Fonts.ini",
-          "sha256": "e5e59b3233eec7c9e06880aab65ae1389435712f9c57a7970ad46bfa0b2c83ee",
-          "size": 773,
-          "asset": "e5e59b3233eec7c9_Resources__Fonts.ini"
-        },
-        {
-          "path": "Resources/Translations/en/Translation.ini",
-          "sha256": "7dd0d530c3cc51680d5912fdd81b9185818187cb69e6c28b133b81db6d795325",
-          "size": 362,
-          "asset": "7dd0d530c3cc5168_Resources__Translations__en__Translation.ini"
-        }
-      ]
-    },
-    {
-      "version": "1.16",
-      "date": "2026-11-21",
-      "title": "Updates arrive within a minute",
-      "description": "MsnUpdator 1.4.0: new versions now arrive within about a minute (GitHub's cache used to delay them by up to 5 minutes). It also writes to its log when it shows the restart window or a notice.",
-      "restart": true,
-      "files": [
-        {
-          "path": "MsnUpdator.exe",
-          "sha256": "a43e00c8bba3d9b65b4203c16b25a3842a85a39a45fdf0bffb162ed28e8fbe51",
-          "size": 35840,
-          "asset": "a43e00c8bba3d9b6_MsnUpdator.exe"
-        },
-        {
-          "path": "updateconfig.ini",
-          "sha256": "c90006eb1869e5a3269a868dcba56f52f8cf45a81b62e9b95d1a675563192f2e",
-          "size": 279,
-          "asset": "c90006eb1869e5a3_updateconfig.ini"
-        },
-        {
-          "path": "Resources/Config/UpdaterConfig_Live.ini",
-          "sha256": "c90006eb1869e5a3269a868dcba56f52f8cf45a81b62e9b95d1a675563192f2e",
-          "size": 279,
-          "asset": "c90006eb1869e5a3_Resources__Config__UpdaterConfig_Live.ini"
-        },
-        {
-          "path": "Resources/Config/UpdaterConfig_PreRelease.ini",
-          "sha256": "c90006eb1869e5a3269a868dcba56f52f8cf45a81b62e9b95d1a675563192f2e",
-          "size": 279,
-          "asset": "c90006eb1869e5a3_Resources__Config__UpdaterConfig_PreRelease.ini"
-        },
-        {
-          "path": "Resources/Config/UpdaterConfig_Dev.ini",
-          "sha256": "c90006eb1869e5a3269a868dcba56f52f8cf45a81b62e9b95d1a675563192f2e",
-          "size": 279,
-          "asset": "c90006eb1869e5a3_Resources__Config__UpdaterConfig_Dev.ini"
-        },
-        {
-          "path": "Resources/Config/UpdaterConfig_Legacy.ini",
-          "sha256": "c90006eb1869e5a3269a868dcba56f52f8cf45a81b62e9b95d1a675563192f2e",
-          "size": 279,
-          "asset": "c90006eb1869e5a3_Resources__Config__UpdaterConfig_Legacy.ini"
-        },
-        {
-          "path": "cncnet.mix",
-          "sha256": "d670fd4fd6654ea76743871101f41264a1831fb0ba00d1b740897a494b09408b",
-          "size": 40321680,
-          "asset": "d670fd4fd6654ea7_cncnet.mix"
-        },
-        {
-          "path": "CnCNet-Spawner.dll",
-          "sha256": "c8412ea4cd6fcbbeaf84dee89eb687bc99d9f3c7725a5badc51d305713936735",
-          "size": 871424,
-          "asset": "c8412ea4cd6fcbbe_CnCNet-Spawner.dll"
-        },
-        {
-          "path": "INI/Game Options/Mega Nuke.ini",
-          "sha256": "c1ab30952ffb42938eecbba1be646c37dd04174b955748679ef197f5c20a8df4",
-          "size": 5307,
-          "asset": "c1ab30952ffb4293_INI__Game_Options__Mega_Nuke.ini"
-        },
-        {
-          "path": "INI/Game Options/AI/Extreme AI Beta.ini",
-          "sha256": "77e9c070f11d2726d4af7ede5af738c0b21dfa3c594c2a6524f5a33c20a705ed",
-          "size": 186365,
-          "asset": "77e9c070f11d2726_INI__Game_Options__AI__Extreme_AI_Beta.ini"
-        },
-        {
-          "path": "Resources/GameLobbyBase.ini",
-          "sha256": "c7d31cc7c4e9d58ccfd6d92eed645a4cfb4023cfa843588479d384159fc50c2d",
-          "size": 19220,
-          "asset": "c7d31cc7c4e9d58c_Resources__GameLobbyBase.ini"
-        },
-        {
-          "path": "Resources/MultiplayerGameLobby.ini",
-          "sha256": "e205d0f33e7c68e258d852a42932e03c6c1adad586eda2fc22c17a69b3e95d95",
-          "size": 2434,
-          "asset": "e205d0f33e7c68e2_Resources__MultiplayerGameLobby.ini"
-        },
-        {
-          "path": "Resources/SkirmishLobby.ini",
-          "sha256": "7a8cbdab5d98f0166b4ba332e191d3bfc8457eba800e8381587d3022ea1ca4ad",
-          "size": 275,
-          "asset": "7a8cbdab5d98f016_Resources__SkirmishLobby.ini"
-        },
-        {
-          "path": "Resources/LANLobby.ini",
-          "sha256": "c0a091b858282f5344a0cfd0e1e35f837d51dc1fe5acc77ac320b18e51e7f295",
-          "size": 449,
-          "asset": "c0a091b858282f53_Resources__LANLobby.ini"
         },
         {
           "path": "Resources/Fonts.ini",
